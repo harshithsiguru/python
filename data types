@@ -1,0 +1,21 @@
+These are basically the types of variables.
+let us consider the previous example from variables topic.
+a=6
+a="harshith"
+a=9.0
+
+
+#integers
+here 6 is an integer type,decimals are not allowed here it includes negative values,positive values and zero.
+
+#float
+9.0 is of float type 
+
+#strings
+harshith is string,string are enclosed with "" or ''
+
+#boolean
+It only includes two values: True,False
+
+we will learn about list,tuple and dictionary in the later part,we will see the practical implementationin the later topics
+unlike other languages u need not seperately define them,u can just assign directly python understands accordingly.
