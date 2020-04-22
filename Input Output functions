@@ -1,0 +1,20 @@
+In python we have print as output functon and inout as input function
+
+
+#input
+syntax:
+variable_name=datatype(input("text you want to display"))
+eg:
+number1=int(input("please enter the first number"))
+#output
+syntax:
+print(variable,"text you want to enter")
+eg:
+print(number1,"is the number")
+let the number entered be 6 for instance
+o/p:6 is the number
+print("the number is",number1)
+o/p:the number is 6
+print("the first number",number1,"is what you have entered")
+o/p:the first number 21 is what you have entered
+the usage depends on how you want to print.
