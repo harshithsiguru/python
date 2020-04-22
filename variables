@@ -1,0 +1,9 @@
+python is currently the most widely used high level programming,multi purpose language.
+lets get started...
+we will discuss here about variables.
+A variable can be imagined to be a bag that carries some items in general terms,varibales in python are case-sensitive(means harshith is completely different from Harshith)
+lets look at some examples...
+a=6
+a="harshith"
+a=9.0
+here a is the variable and 6,harshith,9.0 are values assigned to the variable a.we will get in depth about those values in data types file
